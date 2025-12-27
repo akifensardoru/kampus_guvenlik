@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290894468828",
+    "project_id": "kampusguvenlik-75729",
+    "storage_bucket": "kampusguvenlik-75729.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290894468828:android:e18d62b9d400dcd8b90619",
+        "android_client_info": {
+          "package_name": "com.tolx.kampus_guvenlik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9XTARCRllsVN7hY8cqW35cehBPJDMIR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
